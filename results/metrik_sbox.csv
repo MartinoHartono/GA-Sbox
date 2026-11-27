@@ -1,0 +1,11 @@
+Kriteria,Target,AES standar,GA mode A (permutasi),GA mode B (afin)
+Bijective,Ya,True,True,True
+Balance,Ya,True,True,True
+NL,>=112,112,100,112
+SAC mean,0.5,0.50488,0.50122,0.50342
+BIC-NL min,112,112,102,112
+BIC-SAC mean,0.5,0.50460,0.50670,0.50007
+LAP,->0,0.06250,0.10938,0.06250
+DAP,->0,0.01562,0.03125,0.01562
+DU,4,4,8,4
+Fixed point,0,0,0,0

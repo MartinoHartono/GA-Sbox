@@ -1,0 +1,10 @@
+streamlit>=1.30
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+matplotlib>=3.8
+pillow>=10.0
+# opsional (hanya untuk test_all.py: pembanding implementasi AES)
+cryptography>=42
+# opsional (hanya untuk make_report.py)
+reportlab>=4.0

@@ -1,0 +1,10 @@
+gambar,S-Box,mode,entropy_cipher,chi2,chi2_p,NPCR_first_%,UACI_first_%,NPCR_rand_%,UACI_rand_%,corr_h_plain,corr_h_cipher,dekripsi_identik
+sintetis_1,AES standar,CBC,7.99979,228.5,0.883,99.6106,33.4968,33.2450,11.1582,0.9846,-0.0102,True
+sintetis_1,GA mode A (permutasi),CBC,7.99976,262.4,0.361,99.6038,33.4825,33.2439,11.1653,0.9846,-0.0137,True
+sintetis_1,GA mode B (afin),CBC,7.99975,276.9,0.165,99.6118,33.4939,33.2464,11.1665,0.9846,-0.0040,True
+sintetis_2,AES standar,CBC,7.99976,264.5,0.329,99.6140,33.4381,33.2443,11.1569,0.9903,0.0265,True
+sintetis_2,GA mode A (permutasi),CBC,7.99977,253.3,0.519,99.6043,33.3932,33.2522,11.1689,0.9903,-0.0256,True
+sintetis_2,GA mode B (afin),CBC,7.99975,276.0,0.175,99.6049,33.4657,33.2461,11.1656,0.9903,-0.0106,True
+sintetis_3,AES standar,CBC,7.99981,209.7,0.982,99.6147,33.4686,33.2463,11.1662,0.9850,-0.0097,True
+sintetis_3,GA mode A (permutasi),CBC,7.99976,261.6,0.374,99.6002,33.4229,33.2503,11.1619,0.9850,-0.0152,True
+sintetis_3,GA mode B (afin),CBC,7.99977,253.9,0.507,99.5931,33.4575,33.2442,11.1492,0.9850,-0.0060,True
